@@ -3,7 +3,7 @@
 ## Project Details
 
 - Domain: Agriculture
-- Project Theme: Seasonal Agriculture Performance
+- Project Theme: Seasonal Agriculture Performance 
 - Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
 - Dataset: 4,000 records and 28 columns
 
