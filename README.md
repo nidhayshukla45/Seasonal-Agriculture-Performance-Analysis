@@ -27,4 +27,5 @@ The project includes analysis of:
 
 - `Seasonal_Agriculture_Performance_Dataset.ipynb` – Project notebook
 - `seasonal_agriculture_performance_dataset.csv` – Dataset
-- `Seasonal_Agriculture_Performance_Analysis.pptx` – Project presentation
+- `Nidhay_Shukla_VOIS_Major_Project_PPT_.pptx` – Project presentation
+
